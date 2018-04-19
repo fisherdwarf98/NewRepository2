@@ -1,0 +1,7 @@
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\bin\Debug\FileOne.exe.config
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\bin\Debug\FileOne.exe
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\bin\Debug\FileOne.pdb
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\obj\Debug\FileOne.csprojResolveAssemblyReference.cache
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\obj\Debug\FileOne.csproj.CoreCompileInputs.cache
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\obj\Debug\FileOne.exe
+C:\Users\Fisher Foster\source\repos\FileOne\FileOne\obj\Debug\FileOne.pdb
